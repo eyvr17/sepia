@@ -71,7 +71,7 @@ También se descarga e instala Nmap automáticamente si no se encuentra en el si
 ## Estructura del Proyecto
 
 ```
-crazy-sepia-tool/
+sepia/
 ├── sepia.py        # Script principal
 ├── assets/
 │   └── sepia.gif         # Archivos GIF incluidos en el README
@@ -102,5 +102,6 @@ El autor no se hace responsable por cualquier mal uso de este software.
 ---
 
 ## Contacto
+
 
 Desarrollado por [@eyvr17](https://x.com/eyvr17)
