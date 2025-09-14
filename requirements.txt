@@ -1,0 +1,4 @@
+requests
+dnspython
+python-nmap
+virustotal-python
